@@ -9,6 +9,7 @@ on:
       - 'plantillas/**'
       - 'plan-proyecto.md'
       - 'README.md'
+  workflow_dispatch:
 
 jobs:
   sync-wiki:
@@ -21,89 +22,95 @@ jobs:
 
       - name: Clonar la Wiki
         run: |
-          git clone https://x-access-token:${{ secrets.WIKI_TOKEN }}@github.com/${{ github.repository }}.wiki.git wiki
+          WIKI_URL="https://x-access-token:${{ secrets.WIKI_TOKEN }}@github.com/${{ github.repository }}.wiki.git"
+          if git clone "$WIKI_URL" wiki; then
+            echo "Wiki clonada correctamente."
+          else
+            echo "ERROR: No se pudo clonar la wiki."
+            echo ""
+            echo "ACCION REQUERIDA: Crea la primera pagina de la Wiki manualmente en:"
+            echo "  https://github.com/${{ github.repository }}/wiki"
+            echo "Luego volvé a ejecutar este workflow."
+            exit 1
+          fi
         env:
           WIKI_TOKEN: ${{ secrets.WIKI_TOKEN }}
 
       - name: Copiar archivos a la Wiki
         run: |
-          # Copiar README principal como Home
           cp README.md wiki/Home.md
-
-          # Copiar el plan maestro
           cp plan-proyecto.md wiki/Plan-de-Proyecto.md
 
-          # Copiar secciones de docs/ con nombres descriptivos
-          cp docs/00-caso-y-equipo/caso-estudio.md   wiki/00-Caso-de-Estudio.md
-          cp docs/00-caso-y-equipo/equipo.md          wiki/00-Equipo.md
+          cp docs/00-caso-y-equipo/caso-estudio.md    wiki/00-Caso-de-Estudio.md
+          cp docs/00-caso-y-equipo/equipo.md           wiki/00-Equipo.md
 
-          cp docs/01-plan-inicial/organizacion.md     wiki/01-Organizacion.md
-          cp docs/01-plan-inicial/ciclo-de-vida.md    wiki/01-Ciclo-de-Vida.md
-          cp docs/01-plan-inicial/entregables.md      wiki/01-Entregables.md
+          cp docs/01-plan-inicial/organizacion.md      wiki/01-Organizacion.md
+          cp docs/01-plan-inicial/ciclo-de-vida.md     wiki/01-Ciclo-de-Vida.md
+          cp docs/01-plan-inicial/entregables.md       wiki/01-Entregables.md
 
-          cp docs/02-wbs-estimaciones/wbs.md          wiki/02-WBS.md
-          cp docs/02-wbs-estimaciones/cronograma.md   wiki/02-Cronograma.md
+          cp docs/02-wbs-estimaciones/wbs.md           wiki/02-WBS.md
+          cp docs/02-wbs-estimaciones/cronograma.md    wiki/02-Cronograma.md
           cp docs/02-wbs-estimaciones/red-de-tareas.md wiki/02-Red-de-Tareas.md
-          cp docs/02-wbs-estimaciones/delphi.md       wiki/02-Delphi.md
+          cp docs/02-wbs-estimaciones/delphi.md        wiki/02-Delphi.md
 
-          cp docs/03-recursos-raci/matriz-raci.md        wiki/03-Matriz-RACI.md
+          cp docs/03-recursos-raci/matriz-raci.md         wiki/03-Matriz-RACI.md
           cp docs/03-recursos-raci/asignacion-recursos.md wiki/03-Asignacion-Recursos.md
 
-          cp docs/04-riesgos/registro-riesgos.md      wiki/04-Registro-Riesgos.md
-          cp docs/04-riesgos/matriz-exposicion.md     wiki/04-Matriz-Exposicion.md
-          cp docs/04-riesgos/plan-respuesta.md        wiki/04-Plan-Respuesta.md
+          cp docs/04-riesgos/registro-riesgos.md       wiki/04-Registro-Riesgos.md
+          cp docs/04-riesgos/matriz-exposicion.md      wiki/04-Matriz-Exposicion.md
+          cp docs/04-riesgos/plan-respuesta.md         wiki/04-Plan-Respuesta.md
 
-          cp docs/05-comunicaciones-cambios/plan-comunicaciones.md  wiki/05-Plan-Comunicaciones.md
-          cp docs/05-comunicaciones-cambios/gestion-cambios.md      wiki/05-Gestion-Cambios.md
+          cp docs/05-comunicaciones-cambios/plan-comunicaciones.md wiki/05-Plan-Comunicaciones.md
+          cp docs/05-comunicaciones-cambios/gestion-cambios.md     wiki/05-Gestion-Cambios.md
 
-          cp docs/06-pechakucha/guion.md              wiki/06-Guion-PechaKucha.md
+          cp docs/06-pechakucha/guion.md               wiki/06-Guion-PechaKucha.md
 
-          cp plantillas/formulario-cambio.md          wiki/Plantilla-Formulario-Cambio.md
-          cp plantillas/acta-reunion.md               wiki/Plantilla-Acta-Reunion.md
+          cp plantillas/formulario-cambio.md           wiki/Plantilla-Formulario-Cambio.md
+          cp plantillas/acta-reunion.md                wiki/Plantilla-Acta-Reunion.md
 
-      - name: Generar _Sidebar.md (índice de navegación)
+      - name: Generar _Sidebar.md
         run: |
-          cat > wiki/_Sidebar.md << 'EOF'
-          ## 📋 Plan de Proyecto
+          cat > wiki/_Sidebar.md << 'SIDEBAR'
+## 📋 Plan de Proyecto
 
-          - [[Home]]
-          - [[Plan-de-Proyecto|Plan Maestro]]
+- [[Home]]
+- [[Plan-de-Proyecto|Plan Maestro]]
 
-          ## 📁 00 — Caso y Equipo
-          - [[00-Caso-de-Estudio|Caso de Estudio]]
-          - [[00-Equipo|Equipo del Grupo]]
+## 📁 00 — Caso y Equipo
+- [[00-Caso-de-Estudio|Caso de Estudio]]
+- [[00-Equipo|Equipo del Grupo]]
 
-          ## 📁 01 — Plan Inicial
-          - [[01-Organizacion|Organización]]
-          - [[01-Ciclo-de-Vida|Ciclo de Vida]]
-          - [[01-Entregables|Entregables]]
+## 📁 01 — Plan Inicial (E1)
+- [[01-Organizacion|Organización]]
+- [[01-Ciclo-de-Vida|Ciclo de Vida]]
+- [[01-Entregables|Entregables]]
 
-          ## 📁 02 — WBS y Estimaciones
-          - [[02-WBS|WBS]]
-          - [[02-Cronograma|Cronograma (Gantt)]]
-          - [[02-Red-de-Tareas|Red de Tareas]]
-          - [[02-Delphi|Estimación Delphi]]
+## 📁 02 — WBS y Estimaciones (E2)
+- [[02-WBS|WBS]]
+- [[02-Cronograma|Cronograma (Gantt)]]
+- [[02-Red-de-Tareas|Red de Tareas]]
+- [[02-Delphi|Estimación Delphi]]
 
-          ## 📁 03 — Recursos y RACI
-          - [[03-Matriz-RACI|Matriz RACI]]
-          - [[03-Asignacion-Recursos|Asignación de Recursos]]
+## 📁 03 — Recursos y RACI (E3)
+- [[03-Matriz-RACI|Matriz RACI]]
+- [[03-Asignacion-Recursos|Asignación de Recursos]]
 
-          ## 📁 04 — Riesgos
-          - [[04-Registro-Riesgos|Registro de Riesgos]]
-          - [[04-Matriz-Exposicion|Matriz de Exposición]]
-          - [[04-Plan-Respuesta|Plan de Respuesta]]
+## 📁 04 — Riesgos (E4)
+- [[04-Registro-Riesgos|Registro de Riesgos]]
+- [[04-Matriz-Exposicion|Matriz de Exposición]]
+- [[04-Plan-Respuesta|Plan de Respuesta]]
 
-          ## 📁 05 — Comunicaciones
-          - [[05-Plan-Comunicaciones|Plan de Comunicaciones]]
-          - [[05-Gestion-Cambios|Gestión de Cambios]]
+## 📁 05 — Comunicaciones (E5)
+- [[05-Plan-Comunicaciones|Plan de Comunicaciones]]
+- [[05-Gestion-Cambios|Gestión de Cambios]]
 
-          ## 📁 06 — PechaKucha
-          - [[06-Guion-PechaKucha|Guión PechaKucha]]
+## 📁 06 — PechaKucha (EF)
+- [[06-Guion-PechaKucha|Guión PechaKucha]]
 
-          ## 📎 Plantillas
-          - [[Plantilla-Formulario-Cambio|Formulario de Cambio]]
-          - [[Plantilla-Acta-Reunion|Acta de Reunión]]
-          EOF
+## 📎 Plantillas
+- [[Plantilla-Formulario-Cambio|Formulario de Cambio]]
+- [[Plantilla-Acta-Reunion|Acta de Reunión]]
+SIDEBAR
 
       - name: Commit y push a la Wiki
         run: |
