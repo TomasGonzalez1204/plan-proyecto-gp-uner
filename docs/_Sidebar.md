@@ -1,7 +1,7 @@
 ## Plan de Proyecto
 
 - [[Home]]
-- [[Plan de Proyecto|PlanMaestro]]
+- [[Plan de Proyecto|PlandeProyecto]]
 
 ## 00 - Caso y Equipo
 - [[Caso de Estudio|00CasodeEstudio]]
@@ -14,7 +14,7 @@
 
 ## 02 - WBS y Estimaciones (E2)
 - [[Estructura de Desglose de Trabajo|02WBS]]
-- [[Cronograma|02Cronograma]
+- [[Cronograma|02Cronograma]]
 - [[Red de Tareas|02ReddeTareas]]
 - [[Estimación Deplhi|02Delphi]]
 
@@ -25,10 +25,10 @@
 ## 04 - Riesgos (E4)
 - [[Gestión de Riesgos|04RegistroRiesgos]]
 - [[Matriz de Exposición|04MatrizExposicion]]
-- [[Plan de Respuesta|04PlanRespuest]]
+- [[Plan de Respuesta|04PlanRespuesta]]
 
 ## 05 - Comunicaciones (E5)
-- [[Plan de Comunicaciones|05PlanComunicacione]]
+- [[Plan de Comunicaciones|05PlanComunicaciones]]
 - [[Gestión de Cambios|05GestionCambios]]
 
 ## 06 - PechaKucha (EF)
