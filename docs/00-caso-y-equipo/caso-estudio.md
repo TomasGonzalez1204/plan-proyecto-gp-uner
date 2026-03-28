@@ -44,10 +44,7 @@ Desarrollar un sistema de realidad virtual para el entrenamiento en microcirugí
 | Tiempo | Estimado de 12 semanas |
 | Presupuesto | [COMPLETAR] |
 | Recursos | Equipo reducido de personas, disponibilidad limitada de Meta Quest (3 y 3s)|
-| Alcance | - No se desarrollará un sistema apto para su uso en cirugías reales.
-- No se integrará con hardware médico real ni con sistemas quirúrgicos como el Da Vinci Surgical System.
-- No se incluirán simulaciones completas de todas las especialidades quirúrgicas.
-- No se integrará con bases de datos externas ni sistemas hospitalarios. |
+| Alcance | - No se desarrollará un sistema apto para su uso en cirugías reales.- No se integrará con hardware médico real ni con sistemas quirúrgicos como el Da Vinci Surgical System.- No se incluirán simulaciones completas de todas las especialidades quirúrgicas.- No se integrará con bases de datos externas ni sistemas hospitalarios. |
 
 ## Resultados esperados
 - Prototipo funcional del sistema de realidad virtual.
@@ -57,8 +54,8 @@ Desarrollar un sistema de realidad virtual para el entrenamiento en microcirugí
 
 ## Supuestos
 
-- [Se contará con acceso a dispositivos de realidad virtual adecuados para el desarrollo y pruebas.]
-- [Los usuarios (estudiantes o profesionales) tendrán conocimientos básicos de tecnología para utilizar el sistema.]
+- Se contará con acceso a dispositivos de realidad virtual adecuados para el desarrollo y pruebas.
+- Los usuarios (estudiantes o profesionales) tendrán conocimientos básicos de tecnología para utilizar el sistema.
 
 ---
 
