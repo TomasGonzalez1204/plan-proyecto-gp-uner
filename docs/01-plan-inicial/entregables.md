@@ -1,5 +1,6 @@
 # 📦 Entregables Principales del Proyecto
 
+
 ## Lista de entregables
 
 ```mermaid
@@ -22,10 +23,14 @@ mindmap
 
 | # | Entregable | Descripción | Responsable | Criterio de aceptación |
 |---|-----------|-------------|------------|------------------------|
-| 1 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+| 1 | Plan de Desarrollo | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
 | 2 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
 | 3 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
 | 4 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+| 5 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+| 6 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+| 7 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+| 8 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
 
 ## Exclusiones del alcance
 
