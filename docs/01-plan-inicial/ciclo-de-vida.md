@@ -30,7 +30,7 @@ flowchart TD
     C -- Sí --> H["✅ Híbrido"]
     C -- No --> P
 
-    style P fill:#BDD7EE,stroke:#2E75B6
+    style P fill:#BDD8EE,stroke:#2E75B6
     style D fill:#C8E6C9,stroke:#2E7D32
     style H fill:#FFF9C4,stroke:#F9A825
 ```
