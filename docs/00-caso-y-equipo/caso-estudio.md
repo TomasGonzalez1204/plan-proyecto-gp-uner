@@ -6,7 +6,7 @@
 ## Origen del caso
 
 - [ ] Caso provisto por la cátedra
-[✔] Caso propio basado en experiencia laboral/profesional
+ [✔] Caso propio basado en experiencia laboral/profesional
 - [ ] Proyecto ya realizado, utilizado como contexto
 
 ## Descripción general
