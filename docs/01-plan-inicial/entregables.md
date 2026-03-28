@@ -30,8 +30,7 @@ mindmap
 | 5 | Actualización de Producto | Realización de Mejoras. | [COMPLETAR] | [COMPLETAR] |Fin de Semana 6|
 | 6 | Asesoramiento Médico n° 2 | Pruebas y Retroalimentación Médica. | [COMPLETAR] | [COMPLETAR] |Fin de Semana 7|
 | 7 | Actualización de Producto | Realización de Mejoras. | [COMPLETAR] | [COMPLETAR] |Fin de Semana 8|
-| 8 | Asesoramiento Médico n° 3 | Pruebas y Retroalimentación Médica.
- | [COMPLETAR] | [COMPLETAR] |Fin de Semana 9|
+| 8 | Asesoramiento Médico n° 3 | Pruebas y Retroalimentación Médica. | [COMPLETAR] | [COMPLETAR] |Fin de Semana 9|
 | 9 | Actualización de Producto Final | Realización de mejoras. | [COMPLETAR] | [COMPLETAR] |Fin de Semana 10|
 | 10 | Plan de Marketing | Planificación de Publicidad y Difusión. | [COMPLETAR] | [COMPLETAR] |Fin de Semana 10|
 | 11 | Ejecución de Plan de Marketing | Llevar a cabo el Plan de Marketing. | [COMPLETAR] | [COMPLETAR] |Fin de Semana 11|
