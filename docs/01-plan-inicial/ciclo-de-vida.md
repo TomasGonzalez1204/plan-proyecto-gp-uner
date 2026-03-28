@@ -37,6 +37,20 @@ flowchart TD
 
 > **Decisión del grupo:** La rama del arbol que aplica a la primer etapa es la PRIDICTIVA, ya que los requisitos para construir el programa en realidad virtual son estables, ya que sería mostrar un modelo del cuerpo humano manipulable a traves de los hápticos.
 
+## Fases del proyecto
+
+```mermaid
+flowchart LR
+    F1["📌 Fase 1\n[Plan de desarrollo y presupuesto]"]
+    F2["📌 Fase 2\n[Prototipado de Interfaz]"]
+    F3["📌 Fase 3\n[Asesoría Médica]"]
+    F4["📌 Fase 4\n[Plan de Marketing]"]
+    F5["📌 Fase 4\n[Lanzamiento del producto]"]
+
+    F1 --> F2 --> F3 --> F4 --> F5
+```
+
+
 # 🔄 Ciclo de Vida del Proyecto en la etapa 2:
 
 ## Enfoque seleccionado
@@ -76,16 +90,19 @@ flowchart TD
 
 > **Decisión del grupo:**  La rama del arbol que aplica a la segunda etapa es la ADAPTATIVA, ya que los requisitos no son estables porque los usuarios que entrenarán con el simulador podrán proponer mejoras durante su uso. Además, el equipo sí tendrá experiencia en ágil ya que la adaptación al cambio es rápida y la colaboración se mantiene constante. 
 
+
+
 ## Fases del proyecto
 
 ```mermaid
 flowchart LR
-    F1["📌 Fase 1\n[COMPLETAR]"]
-    F2["📌 Fase 2\n[COMPLETAR]"]
-    F3["📌 Fase 3\n[COMPLETAR]"]
-    F4["📌 Fase 4\n[COMPLETAR]"]
+    F1["📌 Fase 1\n[Plan de desarrollo y presupuesto]"]
+    F2["📌 Fase 2\n[Prototipado de Interfaz]"]
+    F3["📌 Fase 3\n[Asesoría Médica]"]
+    F4["📌 Fase 4\n[Plan de Marketing]"]
+    F5["📌 Fase 4\n[Lanzamiento del producto]"]
 
-    F1 --> F2 --> F3 --> F4
+    F1 --> F2 --> F3 --> F4 --> F5
 ```
 
 | Fase | Nombre | Objetivo | Criterio de salida |
