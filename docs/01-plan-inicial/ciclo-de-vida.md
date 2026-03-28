@@ -91,9 +91,9 @@ flowchart TD
     C -- Sí --> H["✅ Híbrido"]
     C -- No --> P
 
-    style P fill:#BDD7EE,stroke:#2E75B6
-    style D fill:#C8E6C9,stroke:#2E7D32
-    style H fill:#FFF9C4,stroke:#F9A825
+    style P fill:#1E3A5F,stroke:#64B5F6
+    style D fill:#1B5E20,stroke:#81C784
+    style H fill:#5D4037,stroke:#FFB74D
 ```
 
 > **Decisión del grupo:**  La rama del arbol que aplica a la segunda etapa es la ADAPTATIVA, ya que los requisitos no son estables porque los usuarios que entrenarán con el simulador podrán proponer mejoras durante su uso. Además, el equipo sí tendrá experiencia en ágil ya que la adaptación al cambio es rápida y la colaboración se mantiene constante. 
