@@ -50,6 +50,18 @@ flowchart LR
     F1 --> F2 --> F3 --> F4 --> F5
 ```
 
+```
+
+| Fase | Nombre | Objetivo | Criterio de salida |
+|------|--------|----------|-------------------|
+| 1 | Análisis de requisitos | Definir las necesidades del sistema junto con el asesor médico | Requisitos documentados y validados |
+| 2 | Diseño del sistema | Establecer la arquitectura, componentes y funcionamiento del equipo| Diseño aprobado |
+| 3 | Desarrollo / Construcción | Implementar y ensamblar el sistema según el diseño | Prototipo funcional construido |
+| 4 | Validación técnica | Verificar que el sistema cumpla con los requisitos definidos | Sistema validado por el asesor médico |
+
+---
+
+
 
 # 🔄 Ciclo de Vida del Proyecto en la etapa 2:
 
