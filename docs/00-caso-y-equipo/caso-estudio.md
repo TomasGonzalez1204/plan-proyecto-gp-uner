@@ -46,8 +46,6 @@ Desarrollar un sistema de realidad virtual para el entrenamiento en microcirugí
 | Alcance | El sistema se limitará a la simulación de procedimientos básicos de microcirugía, sin contemplar la totalidad de técnicas quirúrgicas ni la integración con sistemas reales como el Da Vinci Surgical System. |
 | Recursos | El proyecto cuenta con un equipo reducido de personas, disponibilidad limitada de recursos técnicos|
 
-## Alcance
-
 
 ## Supuestos
 
