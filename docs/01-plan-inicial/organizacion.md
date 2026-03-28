@@ -3,7 +3,9 @@
 ## Usuarios e interesados (Stakeholders)
 
 | Nombre / Rol | Área | Interés en el proyecto | Influencia |
-|--------------|------|------------------------|-----------|
+|---------------------------------------------|-------|--------------------------------------|------|
+| Centros de entrenamiento en cirugía robótica| Salud | Formación y entrenamiento de médicos | Alta |
+
 
 
 
