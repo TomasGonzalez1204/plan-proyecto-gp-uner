@@ -1,12 +1,24 @@
 # 🔄 Ciclo de Vida del Proyecto
 
-## Enfoque seleccionado
+## Enfoque seleccionado en la etapa 1:
 
-> **[COMPLETAR: Predictivo / Adaptativo / Híbrido]**
+> **[Predictivo]**
 
 ## Justificación de la elección
 
-> [COMPLETAR: explicar por qué este enfoque es el más adecuado para el proyecto, considerando características como: complejidad, claridad de requisitos, tamaño del equipo, tolerancia al cambio, experiencia del equipo, etc.]
+> [La etapa inicial del proyecto se ejecutará con un enfoque predictivo, ya que desde el principio se pueden establecer los objetivos y requerimientos. Se pueden definir las distintas etapas y son relativamente estables. ]
+
+# 🔄 Ciclo de Vida del Proyecto en la etapa 2:
+
+## Enfoque seleccionado
+
+> **[Adaptativo]**
+
+## Justificación de la elección
+
+> [La segunda etapa del proyecto tendrá un enfoque adaptativo, ya que está sujeta a cambios dependiendo de la retroalimentación con usuarios.]
+
+
 
 ## Árbol de decisión
 
