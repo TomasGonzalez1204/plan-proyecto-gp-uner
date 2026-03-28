@@ -4,7 +4,7 @@
 
 ```mermaid
 mindmap
-  root(("🎯 Proyecto\n[Nombre]"))
+  root(("🎯 Bisturí VR"))
     Entregable 1
       [Sub-entregable 1.1]
       [Sub-entregable 1.2]
