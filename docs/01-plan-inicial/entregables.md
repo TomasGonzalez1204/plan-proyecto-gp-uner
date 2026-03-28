@@ -21,16 +21,16 @@ mindmap
 
 ## Detalle de entregables
 
-| # | Entregable | Descripción | Responsable | Criterio de aceptación |
-|---|-----------|-------------|------------|------------------------|
-| 1 | Plan de Desarrollo | Plan y Cronograma de Tareas | [COMPLETAR] | [COMPLETAR] |
-| 2 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| 3 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| 4 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| 5 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| 6 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| 7 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| 8 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+| # | Entregable | Descripción | Responsable | Criterio de aceptación |hola|
+|---|-----------|-------------|------------|------------------------|----|
+| 1 | Plan de Desarrollo | Plan y Cronograma de Tareas | [COMPLETAR] | [COMPLETAR] ||
+| 2 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] ||
+| 3 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] ||
+| 4 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] ||
+| 5 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] ||
+| 6 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] ||
+| 7 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] ||
+| 8 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] ||
 
 ## Exclusiones del alcance
 
