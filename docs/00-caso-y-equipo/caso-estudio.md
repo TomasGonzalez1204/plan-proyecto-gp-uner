@@ -9,7 +9,6 @@
 
 ## Descripción general
 
-> [COMPLETAR: descripción de la situación organizacional que requiere la ejecución del proyecto. Incluir contexto de la organización, el problema o necesidad que origina el proyecto, y el objetivo principal.]
 Actualmente, la formación en microcirugía presenta limitaciones asociadas al acceso restringido a prácticas reales, el alto costo de los equipos y la necesidad de supervisión constante por parte de profesionales experimentados. Estas dificultades reducen las oportunidades de entrenamiento seguro y repetitivo para estudiantes y cirujanos en formación, especialmente en el uso de tecnologías avanzadas como el Da Vinci Surgical System.
 > 
 Este proyecto propone el desarrollo de un entorno de realidad virtual que permita simular procedimientos quirúrgicos en un contexto controlado e inmersivo. De esta manera, se busca mejorar la adquisición de habilidades prácticas, reducir riesgos durante el aprendizaje y facilitar el acceso a herramientas de entrenamiento de alta calidad, aportando valor tanto a instituciones educativas como a profesionales de la salud.
