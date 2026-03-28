@@ -23,7 +23,7 @@ mindmap
 
 | # | Entregable | Descripción | Responsable | Criterio de aceptación |
 |---|-----------|-------------|------------|------------------------|
-| 1 | Plan de Desarrollo | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+| 1 | Plan de Desarrollo | Plan y Cronograma de Tareas | [COMPLETAR] | [COMPLETAR] |
 | 2 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
 | 3 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
 | 4 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
