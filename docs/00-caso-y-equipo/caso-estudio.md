@@ -7,7 +7,7 @@
 
  ✔ Caso propio basado en experiencia laboral/profesional
 
-## Propuesta de Valor
+## Descripción general - Propuesta de Valor
 
 Actualmente, la formación en microcirugía presenta limitaciones asociadas al acceso restringido a prácticas reales, el alto costo de los equipos y la necesidad de supervisión constante por parte de profesionales experimentados. Estas dificultades reducen las oportunidades de entrenamiento seguro y repetitivo para estudiantes y cirujanos en formación, especialmente en el uso de tecnologías avanzadas como el Da Vinci Surgical System.
 > 
