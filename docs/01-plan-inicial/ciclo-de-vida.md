@@ -29,7 +29,7 @@ flowchart TD
     style H fill:#FFF9C4,stroke:#F9A825
 ```
 
-> **Decisión del grupo:** [COMPLETAR: indicar cuál rama del árbol aplica a su caso y por qué]
+> **Decisión del grupo:** La rama del arbol que aplica a la primer etapa es la PRIDICTIVA, ya que los requisitos para construir el programa en realidad virtual son estables, ya que sería mostrar un modelo del cuerpo humano manipulable a traves de los hápticos.
 
 # 🔄 Ciclo de Vida del Proyecto en la etapa 2:
 
@@ -40,7 +40,6 @@ flowchart TD
 ## Justificación de la elección
 
 > La segunda etapa del proyecto tendrá un enfoque adaptativo, ya que está sujeta a cambios dependiendo de la retroalimentación con usuarios.
-
 
 
 ## Árbol de decisión
@@ -63,7 +62,7 @@ flowchart TD
     style H fill:#FFF9C4,stroke:#F9A825
 ```
 
-> **Decisión del grupo:** [COMPLETAR: indicar cuál rama del árbol aplica a su caso y por qué]
+> **Decisión del grupo:**  La rama del arbol que aplica a la segunda etapa es la ADAPTATIVA, ya que los requisitos no son estables porque los usuarios que entrenarán con el simulador podrán proponer mejoras durante su uso. Además, el equipo sí tendrá experiencia en ágil ya que la adaptación al cambio es rápida y la colaboración se mantiene constante. 
 
 ## Fases del proyecto
 
