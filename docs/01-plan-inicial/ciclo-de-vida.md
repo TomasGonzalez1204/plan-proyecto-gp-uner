@@ -41,13 +41,12 @@ flowchart TD
 
 ```mermaid
 flowchart LR
-    F1["📌 Fase 1\n[Plan de desarrollo y presupuesto]"]
-    F2["📌 Fase 2\n[Prototipado de Interfaz]"]
-    F3["📌 Fase 3\n[Asesoría Médica]"]
-    F4["📌 Fase 4\n[Plan de Marketing]"]
-    F5["📌 Fase 4\n[Lanzamiento del producto]"]
+    F1["📌 Fase 1\n[Análisis de requisitos]"]
+    F2["📌 Fase 2\n[Diseño del sistema]"]
+    F3["📌 Fase 3\n[Desarrollo / Construcción]"]
+    F4["📌 Fase 4\n[Validación técnica]"]
 
-    F1 --> F2 --> F3 --> F4 --> F5
+    F1 --> F2 --> F3 --> F4 
 ```
 | Fase | Nombre | Objetivo | Criterio de salida |
 |------|--------|----------|-------------------|
@@ -105,13 +104,12 @@ flowchart TD
 
 ```mermaid
 flowchart LR
-    F1["📌 Fase 1\n[Plan de Mantenimiento y cronograma]"]
-    F2["📌 Fase 2\n[....]"]
-    F3["📌 Fase 3\n[...]"]
-    F4["📌 Fase 4\n[...]"]
-    F5["📌 Fase 4\n[...]"]
+    F1["📌 Fase 1\n[Monitoreo del sistema]"]
+    F2["📌 Fase 2\n[Recolección de feedback]"]
+    F3["📌 Fase 3\n[Actualización / Mejora]"]
+    F4["📌 Fase 4\n[Validación con usuarios]"]
 
-    F1 --> F2 --> F3 --> F4 --> F5
+    F1 --> F2 --> F3 --> F4
 ```
 
 | Fase | Nombre | Objetivo | Criterio de salida |
