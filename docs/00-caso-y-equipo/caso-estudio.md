@@ -1,8 +1,9 @@
 # 📖 Caso de Estudio
 
-## Entorno de simulación en realidad virtual para el entrenamiento en microcirugía asistida por robot
+## Nombre del proyecto:
+Entorno de simulación en realidad virtual para el entrenamiento en microcirugía asistida por robot
 
-
+ 
 ## Origen del caso
 
  ✔ Caso propio basado en experiencia laboral/profesional
