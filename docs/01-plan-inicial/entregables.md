@@ -6,17 +6,24 @@
 ```mermaid
 mindmap
   root(("🏥 Bisturí VR"))
-    Entregable 1
-      [Sub-entregable 1.1]
-      [Sub-entregable 1.2]
-    Entregable 2
-      [Sub-entregable 2.1]
-      [Sub-entregable 2.2]
-    Entregable 3
-      [Sub-entregable 3.1]
-      [Sub-entregable 3.2]
-    Entregable 4
-      [Sub-entregable 4.1]
+    Planificación
+      [Plan de Desarrollo]
+      [Plan Presupuestario]
+      [Prototipo de Interfaz]
+    Desarrollo del producto
+      [Asesoramiento Médico]
+        [Asesoramiento Médico n° 1]
+        [Asesoramiento Médico n° 2]
+        [Asesoramiento Médico n° 3]
+      [Actualización de Producto]
+        [Actualización de Producto n° 1]
+        [Actualización de Producto n° 2]
+        [Actualización de Producto Final]
+    Venta del producto
+      [Plan de Marketing]
+      [Ejecución de Plan de Marketing]
+      [Lanzamiento del Producto al Público]
+    
 ```
 
 ## Detalle de entregables
@@ -27,14 +34,14 @@ mindmap
 | 2 | Plan Presupuestario | Planificación de Presupuesto y Proveedores | Area de Finanzas | [COMPLETAR] | Fin de Semana 2 |
 | 3 | Prototipo de Interfaz | Primer Mockup Navegable. | Area de Desarrollo de Software | [COMPLETAR] |Fin de Semana 4|
 | 4 | Asesoramiento Médico n° 1 | Pruebas y Retroalimentación Médica. | Asesor Médico | [COMPLETAR] |Fin de Semana 5|
-| 5 | Actualización de Producto | Realización de Mejoras. | Area de Desarrollo de Software  | [COMPLETAR] |Fin de Semana 6|
+| 5 | Actualización de Producto n° 1 | Realización de Mejoras. | Area de Desarrollo de Software  | [COMPLETAR] |Fin de Semana 6|
 | 6 | Asesoramiento Médico n° 2 | Pruebas y Retroalimentación Médica. | Asesor Médico | [COMPLETAR] |Fin de Semana 7|
-| 7 | Actualización de Producto | Realización de Mejoras. | Area de Desarrollo de Software  | [COMPLETAR] |Fin de Semana 8|
+| 7 | Actualización de Producto n° 2 | Realización de Mejoras. | Area de Desarrollo de Software  | [COMPLETAR] |Fin de Semana 8|
 | 8 | Asesoramiento Médico n° 3 | Pruebas y Retroalimentación Médica. | Asesor Médico | [COMPLETAR] |Fin de Semana 9|
 | 9 | Actualización de Producto Final | Realización de mejoras. | Area de Desarrollo de Software  | [COMPLETAR] |Fin de Semana 10|
 | 10 | Plan de Marketing | Planificación de Publicidad y Difusión. | Especialista en Ventas/Marketing | [COMPLETAR] |Fin de Semana 10|
 | 11 | Ejecución de Plan de Marketing | Llevar a cabo el Plan de Marketing. | Especialista en Ventas/Marketing | [COMPLETAR] |Fin de Semana 11|
-| 12 | Lanzamiento del Producto al Público. | Búsqueda de Posibles Usuarios. | Area de Marketing | [COMPLETAR] |Fin de Semana 11|
+| 12 | Lanzamiento del Producto al Público | Búsqueda de Posibles Usuarios. | Area de Marketing | [COMPLETAR] |Fin de Semana 11|
 
 ## Exclusiones del alcance
 
