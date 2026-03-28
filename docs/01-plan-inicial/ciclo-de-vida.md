@@ -30,9 +30,9 @@ flowchart TD
     C -- Sí --> H["✅ Híbrido"]
     C -- No --> P
 
-    style P fill:#E3F2FD,stroke:#1565C0
-    style D fill:#E8F5E9,stroke:#1B5E20
-    style H fill:#FFF3E0,stroke:#EF6C00
+    style P fill:#1E3A5F,stroke:#64B5F6
+    style D fill:#1B5E20,stroke:#81C784
+    style H fill:#5D4037,stroke:#FFB74D
 ```
 
 > **Decisión del grupo:** La rama del arbol que aplica a la primer etapa es la PRIDICTIVA, ya que los requisitos para construir el programa en realidad virtual son estables, ya que sería mostrar un modelo del cuerpo humano manipulable a traves de los hápticos.
