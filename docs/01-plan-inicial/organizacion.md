@@ -22,30 +22,32 @@
 | Especialista en Ventas y Marketing | Posicionar el producto y atraer clientes potenciales | 
 | Gestor de Compras | Garantizar la adquisición de recursos necesarios en tiempo y forma |
 
-## Equipo del proyecto
-
-| Integrante | Rol en el proyecto | Responsabilidad principal |
-|------------|--------------------|--------------------------|
-| [COMPLETAR] | Director / Líder de Proyecto | [COMPLETAR] |
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-
 ## Estructura del equipo
 
-```mermaid
 graph TD
-    Sponsor["🏛️ Sponsor\n[COMPLETAR]"]
-    PM["👤 Director de Proyecto\n[COMPLETAR]"]
-    M1["👤 [Rol 1]\n[COMPLETAR]"]
-    M2["👤 [Rol 2]\n[COMPLETAR]"]
-    M3["👤 [Rol 3]\n[COMPLETAR]"]
+    A["🏛️ Comisión Directiva"]
 
-    Sponsor --> PM
-    PM --> M1
-    PM --> M2
-    PM --> M3
-```
+    B["👤 Director Área de Desarrollo en Software"]
+    C["👤 Director de Finanzas"]
+    D["👤 Director de Recursos Humanos"]
 
+    E["👤 Asesor Médico"]
+    F["👤 Técnico de Software y Hardware"]
+    G["👤 Desarrollador de Software"]
+
+    H["👤 Gestor de Compras"]
+    I["👤 Especialista en Ventas y Marketing"]
+
+    A --> B
+    A --> C
+    A --> D
+
+    B --> E
+    B --> F
+    B --> G
+
+    C --> H
+    C --> I
 ---
 
 *Cátedra Gestión de Proyectos · FIUNER · 2026*
