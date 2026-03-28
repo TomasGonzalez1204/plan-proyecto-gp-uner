@@ -4,13 +4,13 @@
 
 | Nombre y Apellido | Legajo | Carrera | Rol en el proyecto |
 |-------------------|--------|---------|-------------------|
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+| TOMAS E. GONZALEZ | [COMPLETAR] | BIOINGENIERÍA | [COMPLETAR] |
+| [COMPLETAR] | [COMPLETAR] | BIOINGENIERÍA | [COMPLETAR] |
+| [COMPLETAR] | [COMPLETAR] | BIOINGENIERÍA | [COMPLETAR] |
 
 ## Número de grupo
 
-**Grupo Nº:** [COMPLETAR]
+**Grupo Nº:** NUEVE (9)
 
 ## Repositorio
 
