@@ -49,9 +49,6 @@ flowchart LR
 
     F1 --> F2 --> F3 --> F4 --> F5
 ```
-
-```
-
 | Fase | Nombre | Objetivo | Criterio de salida |
 |------|--------|----------|-------------------|
 | 1 | Análisis de requisitos | Definir las necesidades del sistema junto con el asesor médico | Requisitos documentados y validados |
