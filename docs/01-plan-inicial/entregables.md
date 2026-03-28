@@ -6,11 +6,11 @@
 ```mermaid
 mindmap
   root(("🏥 Bisturí VR"))
-    Planificación
+    1. Planificación
       [Plan de Desarrollo]
       [Plan Presupuestario]
       [Prototipo de Interfaz]
-    Desarrollo del producto
+    2. Desarrollo del producto
       [Asesoramiento Médico]
         [Asesoramiento Médico n° 1]
         [Asesoramiento Médico n° 2]
@@ -19,7 +19,7 @@ mindmap
         [Actualización de Producto n° 1]
         [Actualización de Producto n° 2]
         [Actualización de Producto Final]
-    Venta del producto
+    3. Venta del producto
       [Plan de Marketing]
       [Ejecución de Plan de Marketing]
       [Lanzamiento del Producto al Público]
