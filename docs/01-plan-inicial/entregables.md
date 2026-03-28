@@ -38,10 +38,10 @@ mindmap
 
 ## Exclusiones del alcance
 
-> [COMPLETAR: indicar explícitamente qué NO está incluido en el proyecto para evitar ambigüedades]
-
-- [COMPLETAR: exclusión 1]
-- [COMPLETAR: exclusión 2]
+- No se desarrollará un sistema apto para su uso en cirugías reales.
+- No se integrará con hardware médico real ni con sistemas quirúrgicos como el Da Vinci Surgical System.
+- No se incluirán simulaciones completas de todas las especialidades quirúrgicas.
+- No se integrará con bases de datos externas ni sistemas hospitalarios. 
 
 ---
 
