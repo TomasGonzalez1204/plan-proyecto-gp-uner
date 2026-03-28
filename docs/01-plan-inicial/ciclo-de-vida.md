@@ -116,10 +116,10 @@ flowchart LR
 
 | Fase | Nombre | Objetivo | Criterio de salida |
 |------|--------|----------|-------------------|
-| 1 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| 2 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| 3 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| 4 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+| 1 | Monitoreo del sistema | Evaluar el desempeño del sistema en uso real | Datos de uso y problemas identificados |
+| 2 | Recolección de feedback | Obtener sugerencias y necesidades de los usuarios | Feedback documentado |
+| 3 | Actualización / Mejora | Implementar cambios y mejoras en el sistema | Versión actualizada del sistema |
+| 4 | Validación con usuarios | Verificar que las mejoras resuelvan los problemas detectados | Aprobación de los usuarios y correcto funcionamiento |
 
 ---
 
