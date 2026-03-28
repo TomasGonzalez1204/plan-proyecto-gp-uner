@@ -6,7 +6,30 @@
 
 ## Justificación de la elección
 
-> La etapa inicial del proyecto se ejecutará con un enfoque predictivo, ya que desde el principio se pueden establecer los objetivos y requerimientos. Se pueden definir las distintas etapas y son relativamente estables. 
+> La etapa inicial del proyecto se ejecutará con un enfoque predictivo, ya que desde el principio se pueden establecer los objetivos y requerimientos. Se pueden definir las distintas etapas y son relativamente estables.
+
+
+## Árbol de decisión
+
+```mermaid
+flowchart TD
+    A{{"¿Los requisitos\nson estables?"}}
+    B{{"¿El equipo tiene\nexperiencia en ágil?"}}
+    C{{"¿El entorno admite\nentregas incrementales?"}}
+
+    A -- Sí --> P["✅ Predictivo\n(Cascada)"]
+    A -- No --> B
+    B -- Sí --> D["✅ Adaptativo\n(Scrum / Kanban)"]
+    B -- No --> C
+    C -- Sí --> H["✅ Híbrido"]
+    C -- No --> P
+
+    style P fill:#BDD7EE,stroke:#2E75B6
+    style D fill:#C8E6C9,stroke:#2E7D32
+    style H fill:#FFF9C4,stroke:#F9A825
+```
+
+> **Decisión del grupo:** [COMPLETAR: indicar cuál rama del árbol aplica a su caso y por qué]
 
 # 🔄 Ciclo de Vida del Proyecto en la etapa 2:
 
