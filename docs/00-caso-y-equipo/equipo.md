@@ -4,9 +4,9 @@
 
 | Nombre y Apellido | Legajo | Carrera | Rol en el proyecto |
 |-------------------|--------|---------|-------------------|
-| TOMAS E. GONZALEZ | [COMPLETAR] | BIOINGENIERÍA | [COMPLETAR] |
-| [COMPLETAR] | [COMPLETAR] | BIOINGENIERÍA | [COMPLETAR] |
-| [COMPLETAR] | [COMPLETAR] | BIOINGENIERÍA | [COMPLETAR] |
+| TOMAS E. GONZALEZ | 46382168 | BIOINGENIERÍA | [COMPLETAR] |
+| ABRIL G. YUSTRA | 45829463 | BIOINGENIERÍA | [COMPLETAR] |
+| M. ROSARIO VICONDO | 46722783 | BIOINGENIERÍA | [COMPLETAR] |
 
 ## Número de grupo
 
