@@ -46,10 +46,7 @@ Desarrollar un sistema de realidad virtual para el entrenamiento en microcirugí
 | Recursos | Equipo reducido de personas, disponibilidad limitada de Meta Quest (3 y 3s)|
 
 ## Alcance
-- No se desarrollará un sistema apto para su uso en cirugías reales.
-- No se integrará con hardware médico real ni con sistemas quirúrgicos como el Da Vinci Surgical System.
-- No se incluirán simulaciones completas de todas las especialidades quirúrgicas.
-- No se integrará con bases de datos externas ni sistemas hospitalarios. 
+
 
 ## Supuestos
 
