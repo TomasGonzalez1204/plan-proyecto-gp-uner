@@ -23,7 +23,7 @@
 | Gestor de Compras | Garantizar la adquisición de recursos necesarios en tiempo y forma |
 
 ## Estructura del equipo
-´´´
+```mermaid
 graph TD
     A["🏛️ Comisión Directiva"]
 
@@ -48,7 +48,7 @@ graph TD
 
     C --> H
     C --> I
-´´´
+```
 ---
 
 *Cátedra Gestión de Proyectos · FIUNER · 2026*
