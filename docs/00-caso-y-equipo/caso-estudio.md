@@ -5,7 +5,7 @@
 
 ## Origen del caso
 
- [✔] Caso propio basado en experiencia laboral/profesional
+ ✔ Caso propio basado en experiencia laboral/profesional
 
 ## Descripción general
 
@@ -17,10 +17,10 @@ Este proyecto propone el desarrollo de un entorno de realidad virtual que permit
 
 | Campo | Detalle |
 |-------|---------|
-| Nombre de la organización | [COMPLETAR] |
-| Sector / Industria | [COMPLETAR] |
-| Tamaño aproximado | [COMPLETAR] |
-| Área solicitante | [COMPLETAR] |
+| Nombre de la organización | Bisturí VR |
+| Sector / Industria | Centro de entrenamiento de cirugía robótica |
+| Tamaño aproximado | Pequeña (9 personas) |
+| Área solicitante | Área de la Salud |
 
 ## Problema u oportunidad
 
@@ -41,14 +41,13 @@ Desarrollar un sistema de realidad virtual para el entrenamiento en microcirugí
 
 | Tipo | Descripción |
 |------|-------------|
-| Tiempo | [COMPLETAR] |
+| Tiempo | Estimado de 12 semanas |
 | Presupuesto | [COMPLETAR] |
-| Alcance | [COMPLETAR] |
-| Recursos | [COMPLETAR] |
-- No se desarrollará un sistema apto para su uso en cirugías reales.
+| Recursos | Equipo reducido de personas, disponibilidad limitada de Meta Quest (3 y 3s)|
+| Alcance | - No se desarrollará un sistema apto para su uso en cirugías reales.
 - No se integrará con hardware médico real ni con sistemas quirúrgicos como el Da Vinci Surgical System.
 - No se incluirán simulaciones completas de todas las especialidades quirúrgicas.
-- No se integrará con bases de datos externas ni sistemas hospitalarios.
+- No se integrará con bases de datos externas ni sistemas hospitalarios. |
 
 ## Resultados esperados
 - Prototipo funcional del sistema de realidad virtual.
@@ -58,9 +57,8 @@ Desarrollar un sistema de realidad virtual para el entrenamiento en microcirugí
 
 ## Supuestos
 
-- [COMPLETAR: supuesto 1]
-- [COMPLETAR: supuesto 2]
-- [COMPLETAR: supuesto 3]
+- [Se contará con acceso a dispositivos de realidad virtual adecuados para el desarrollo y pruebas.]
+- [Los usuarios (estudiantes o profesionales) tendrán conocimientos básicos de tecnología para utilizar el sistema.]
 
 ---
 
