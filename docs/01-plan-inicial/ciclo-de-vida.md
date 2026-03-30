@@ -35,7 +35,7 @@ flowchart TD
     style H fill:#5D4037,stroke:#FFB74D
 ```
 
-> **Decisión del grupo:** La rama del arbol que aplica a la primer etapa es la PRIDICTIVA, ya que los requisitos para construir el programa en realidad virtual son estables, ya que sería mostrar un modelo del cuerpo humano manipulable a traves de los hápticos.
+> **Decisión del grupo:** La rama del arbol que aplica a la primer etapa es la PREDICTIVA, ya que los requisitos para construir el programa en realidad virtual son estables, ya que sería mostrar un modelo del cuerpo humano manipulable a traves de los hápticos.
 
 ## Fases del proyecto
 
