@@ -2,7 +2,7 @@
 
 ## Enfoque seleccionado 
 
-> **Predictivo**
+> **ITERATIVO**
 
 ## Justificación de la elección
 
