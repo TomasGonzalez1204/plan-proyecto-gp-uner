@@ -35,8 +35,8 @@
 | COMPLETAR    | Técnico de Software          | Mantener el correcto funcionamiento de los equipos y sistemas          |
 | COMPLETAR        | Desarrollador de Software     | Implementar correctamente las funcionalidades del sistema              |
 | COMPLETAR     | Director de Recursos Humanos        | Gestionar el equipo de trabajo y su desempeño                          |
-| COMPLETAR             | Director de Finanzas       | Controlar costos y asegurar la viabilidad económica                    |
-| COMPLETAR| Especialista en Ventas / Marketing  | Posicionar el producto y atraer clientes potenciales                   |
+| COMPLETAR             | Contador       | Controlar costos y asegurar la viabilidad económica                    |
+| COMPLETAR| Especialista en Marketing  | Posicionar el producto y atraer clientes potenciales                   |
 | COMPLETAR                | Gestor de Compras           | Garantizar la adquisición de recursos necesarios en tiempo y forma     |
 
 
@@ -47,7 +47,7 @@ graph TD
     A["🏛️ Director del Proyecto"]
 
     B["👤 Director Área de Desarrollo en Software"]
-    C["👤 Director de Finanzas"]
+    C["👤 Contador"]
     D["👤 Director de Recursos Humanos"]
 
     E["👤 Asesor Médico"]
@@ -55,7 +55,7 @@ graph TD
     G["👤 Desarrollador de Software"]
 
     H["👤 Gestor de Compras"]
-    I["👤 Especialista en Ventas y Marketing"]
+    I["👤 Especialista en Marketing"]
 
     Z --> A
     A --> B
