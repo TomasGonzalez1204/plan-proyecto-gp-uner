@@ -12,6 +12,11 @@
 ## Áreas involucradas
 | Rol | Interés en el proyecto |
 |---------------------|-------------------------------------------------------------------------------|
+
+
+
+## Áreas involucradas
+| Integrante | Ro en el proyecto | Responsabilidad principal |
 | Comisión Directiva | Asegurar el éxito del proyecto y el cumplimiento de los objetivos estratégicos |
 | Director Área de Desarrollo en Software | Lograr un desarrollo eficiente, funcional y de calidad del sistema |
 | Asesor Médico | Garantizar la precisión médica y utilidad de las simulaciones |
