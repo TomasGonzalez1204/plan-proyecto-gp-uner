@@ -18,7 +18,7 @@
 ## Equipo de proyecto
 | Integrante                         | Rol en el proyecto        | Responsabilidad principal                                              |
 |----------------------------------|--------------------------|------------------------------------------------------------------------|
-| Comisión Directiva               | Patrocinador             | Asegurar el éxito del proyecto y el cumplimiento de los objetivos estratégicos |
+| Comisión Directiva               | gestión del proyecto             | Asegurar el éxito del proyecto y el cumplimiento de los objetivos estratégicos |
 | Director Área de Desarrollo      | Líder técnico            | Lograr un desarrollo eficiente, funcional y de calidad del sistema     |
 | Asesor Médico                    | Experto del dominio      | Garantizar la precisión médica y utilidad de las simulaciones          |
 | Técnico de Software y Hardware   | Soporte técnico          | Mantener el correcto funcionamiento de los equipos y sistemas          |
