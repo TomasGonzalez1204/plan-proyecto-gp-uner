@@ -16,18 +16,17 @@
 
 
 ## Áreas involucradas
-| Integrante | Ro en el proyecto | Responsabilidad principal |
-|---------------------------------------------|-------|--------------------------------------|------|
-| Comisión Directiva | Asegurar el éxito del proyecto y el cumplimiento de los objetivos estratégicos |
-| Director Área de Desarrollo en Software | Lograr un desarrollo eficiente, funcional y de calidad del sistema |
-| Asesor Médico | Garantizar la precisión médica y utilidad de las simulaciones |
-| Técnico de Software y Hardware | Mantener el correcto funcionamiento de los equipos y sistemas|
-| Desarrollador de Software | Implementar correctamente las funcionalidades del sistema | 
-| Director de Recursos Humanos | Gestionar el equipo de trabajo y su desempeño | 
-| Director de Finanzas | Controlar costos y asegurar la viabilidad económica | 
-| Especialista en Ventas y Marketing | Posicionar el producto y atraer clientes potenciales | 
-| Gestor de Compras | Garantizar la adquisición de recursos necesarios en tiempo y forma |
-|---------------------------------------------|-------|--------------------------------------|------|
+| Integrante                         | Rol en el proyecto        | Responsabilidad principal                                              |
+|----------------------------------|--------------------------|------------------------------------------------------------------------|
+| Comisión Directiva               | Patrocinador             | Asegurar el éxito del proyecto y el cumplimiento de los objetivos estratégicos |
+| Director Área de Desarrollo      | Líder técnico            | Lograr un desarrollo eficiente, funcional y de calidad del sistema     |
+| Asesor Médico                    | Experto del dominio      | Garantizar la precisión médica y utilidad de las simulaciones          |
+| Técnico de Software y Hardware   | Soporte técnico          | Mantener el correcto funcionamiento de los equipos y sistemas          |
+| Desarrollador de Software        | Equipo de desarrollo     | Implementar correctamente las funcionalidades del sistema              |
+| Director de Recursos Humanos     | Gestión de equipo        | Gestionar el equipo de trabajo y su desempeño                          |
+| Director de Finanzas             | Control financiero       | Controlar costos y asegurar la viabilidad económica                    |
+| Especialista en Ventas y Marketing| Comercial / Marketing   | Posicionar el producto y atraer clientes potenciales                   |
+| Gestor de Compras                | Abastecimiento           | Garantizar la adquisición de recursos necesarios en tiempo y forma     |
 
 
 ## Estructura del equipo
