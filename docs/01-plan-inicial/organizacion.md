@@ -28,15 +28,16 @@
 ## Equipo de proyecto
 | Integrante                         | Rol en el proyecto        | Responsabilidad principal                                              |
 |----------------------------------|--------------------------|------------------------------------------------------------------------|
-| Comisión Directiva               | gestión del proyecto             | Asegurar el éxito del proyecto y el cumplimiento de los objetivos estratégicos |
-| Director de Proyecto      | Líder técnico            | Lograr un desarrollo eficiente, funcional y de calidad del sistema     |
-| Experto en el área                 | Experto del dominio      | Garantizar la precisión médica y utilidad de las simulaciones          |
-| Técnico de Software y Hardware   | Soporte técnico          | Mantener el correcto funcionamiento de los equipos y sistemas          |
-| Desarrollador de Software        | Equipo de desarrollo     | Implementar correctamente las funcionalidades del sistema              |
-| Director de Recursos Humanos     | Gestión de equipo        | Gestionar el equipo de trabajo y su desempeño                          |
-| Director de Finanzas             | Control financiero       | Controlar costos y asegurar la viabilidad económica                    |
-| Especialista en Ventas y Marketing| Comercial / Marketing   | Posicionar el producto y atraer clientes potenciales                   |
-| Gestor de Compras                | Abastecimiento           | Garantizar la adquisición de recursos necesarios en tiempo y forma     |
+|      COMPLETAR          | Patrocinador del Proyecto             | Tiene la autoridad para asignar recursos, aprobar presupuestos y tomar decisiones esenciales. También puede proporcionar recursos y garantizar que el proyecto entregue el valor empresarial esperado. |
+|      COMPLETAR          | Comisión Directiva             | Asegurar el éxito del proyecto y el cumplimiento de los objetivos estratégicos |
+| COMPLETAR      | Director Área de Desarrollo de software           | Lograr un desarrollo eficiente, funcional y de calidad del sistema     |
+| COMPLETAR                 | Asesor médico      | Garantizar la precisión médica y utilidad de las simulaciones          |
+| COMPLETAR    | Técnico de Software          | Mantener el correcto funcionamiento de los equipos y sistemas          |
+| COMPLETAR        | Desarrollador de Software     | Implementar correctamente las funcionalidades del sistema              |
+| COMPLETAR     | Director de Recursos Humanos        | Gestionar el equipo de trabajo y su desempeño                          |
+| COMPLETAR             | Director de Finanzas       | Controlar costos y asegurar la viabilidad económica                    |
+| COMPLETAR| Especialista en Ventas / Marketing  | Posicionar el producto y atraer clientes potenciales                   |
+| COMPLETAR                | Gestor de Compras           | Garantizar la adquisición de recursos necesarios en tiempo y forma     |
 
 
 ## Estructura del equipo
