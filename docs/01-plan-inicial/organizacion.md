@@ -15,7 +15,7 @@
 
 
 
-## Áreas involucradas
+## Equipo de proyecto
 | Integrante                         | Rol en el proyecto        | Responsabilidad principal                                              |
 |----------------------------------|--------------------------|------------------------------------------------------------------------|
 | Comisión Directiva               | Patrocinador             | Asegurar el éxito del proyecto y el cumplimiento de los objetivos estratégicos |
