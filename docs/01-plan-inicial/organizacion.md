@@ -11,7 +11,9 @@
 
 ## Áreas involucradas
 | Área | Rol en el proyecto |
-
+| Área de Desarrollo de Software | implementación técnica del sistema, encargándose de la creación del entorno virtual inmersivo, la programación de las funcionalidades y el soporte de los equipos de VR |
+| Asesoría Médica | garantizan la precisión médica de las simulaciones y validar cada prototipo mediante retroalimentación constante para asegurar la "correctitud" de la solución |
+| Área de Finanzas y Administración | gestión de recursos y costos, asegurando la viabilidad económica del proyecto, administrando el presupuesto y coordinando la adquisición de insumos tecnológicos necesarios |
 
 
 
