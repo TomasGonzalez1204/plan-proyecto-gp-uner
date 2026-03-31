@@ -10,7 +10,7 @@
 
 
 ## Áreas involucradas
-| Rol | Interés en el proyecto |
+| Área | Rol en el proyecto |
 
 
 
