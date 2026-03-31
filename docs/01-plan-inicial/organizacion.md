@@ -29,7 +29,7 @@
 | Integrante                         | Rol en el proyecto        | Responsabilidad principal                                              |
 |----------------------------------|--------------------------|------------------------------------------------------------------------|
 |      COMPLETAR          | Patrocinador del Proyecto             | Tiene la autoridad para asignar recursos, aprobar presupuestos y tomar decisiones esenciales. También puede proporcionar recursos y garantizar que el proyecto entregue el valor empresarial esperado. |
-|      COMPLETAR          | Comisión Directiva             | Asegurar el éxito del proyecto y el cumplimiento de los objetivos estratégicos |
+|      COMPLETAR          | Director del Proyecto             | Tiene total responsabilidad por el éxito del proyecto y el poder para tomar todas las decisiones, sujeto a la supervisión de los órganos ejecutivos. |
 | COMPLETAR      | Director Área de Desarrollo de software           | Lograr un desarrollo eficiente, funcional y de calidad del sistema     |
 | COMPLETAR                 | Asesor médico      | Garantizar la precisión médica y utilidad de las simulaciones          |
 | COMPLETAR    | Técnico de Software          | Mantener el correcto funcionamiento de los equipos y sistemas          |
@@ -44,7 +44,7 @@
 ```mermaid
 graph TD
     Z["🏛️ Patrocinador del Proyecto"]
-    A["🏛️ Comisión Directiva"]
+    A["🏛️ Director del Proyecto"]
 
     B["👤 Director Área de Desarrollo en Software"]
     C["👤 Director de Finanzas"]
