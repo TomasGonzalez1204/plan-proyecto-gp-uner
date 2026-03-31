@@ -6,13 +6,13 @@
 
 ## Justificación de la elección
 
-> En la etapa de producción se adopta un enfoque predictivo debido a que el proyecto presenta un bajo nivel de incertidumbre y requiere una planificación detallada desde el inicio. En este contexto, los objetivos, requisitos y resultados esperados están bien definidos, lo que permite establecer un plan estructurado y seguirlo de manera secuencial.
-> 
-> Además, el nivel de riesgo es alto, ya que existe una inversión significativa asociada al desarrollo. Esto hace necesario minimizar errores y retrabajos, lo cual se logra mediante una planificación anticipada rigurosa. El enfoque predictivo permite controlar mejor los tiempos, costos y recursos, asegurando que el producto final cumpla con los estándares requeridos.
-> 
-> Por otro lado, la retroalimentación proviene principalmente del asesor médico, lo que implica que las decisiones se basan en criterios técnicos y especializados previamente definidos, reforzando la necesidad de un desarrollo más controlado y menos flexible.
-> 
-> Finalmente, aunque se entregan múltiples versiones del producto, estas responden a una planificación previa y no a cambios constantes, lo que es característico de un enfoque predictivo.
+>En la etapa de producción se adopta un enfoque iterativo debido a que el proyecto presenta un nivel considerable de incertidumbre y complejidad, lo que dificulta definir completamente los requisitos desde el inicio. En este contexto, los objetivos y características del producto se van definiendo progresivamente a medida que se obtiene nueva información a lo largo del desarrollo.
+>
+> Además, el proyecto requiere la construcción de prototipos o versiones parciales que permitan validar ideas, funcionalidades y decisiones de diseño. Esto implica que el desarrollo no sigue una secuencia rígida, sino que se organiza en ciclos sucesivos donde cada iteración aporta aprendizaje y permite realizar ajustes, reduciendo así el riesgo de errores en etapas avanzadas.
+>
+> Por otro lado, la retroalimentación de los interesados cumple un rol fundamental, ya que cada versión del producto es evaluada y utilizada para mejorar la siguiente. Esto resulta especialmente importante cuando existen múltiples perspectivas o cuando las necesidades pueden evolucionar con el tiempo, haciendo necesario un enfoque flexible y adaptable.
+>
+> Finalmente, aunque este enfoque puede implicar mayores tiempos y costos debido al retrabajo, permite obtener un producto final más alineado con las expectativas y necesidades reales, siendo especialmente adecuado en contextos donde el aprendizaje continuo y la adaptación son clave para el éxito del proyecto.
 
 
 ## Árbol de decisión
