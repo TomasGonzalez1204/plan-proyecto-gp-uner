@@ -43,7 +43,7 @@
 ## Estructura del equipo
 ```mermaid
 graph TD
-    h["🏛️ Patrocinador del Proyecto"]
+    Z["🏛️ Patrocinador del Proyecto"]
     A["🏛️ Comisión Directiva"]
 
     B["👤 Director Área de Desarrollo en Software"]
@@ -57,7 +57,7 @@ graph TD
     H["👤 Gestor de Compras"]
     I["👤 Especialista en Ventas y Marketing"]
 
-    H --> A
+    Z --> A
     A --> B
     A --> C
     A --> D
