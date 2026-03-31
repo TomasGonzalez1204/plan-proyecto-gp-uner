@@ -16,10 +16,8 @@
 | Desarrollo de Software | implementación técnica del sistema, encargándose de la creación del entorno virtual inmersivo, la programación de las funcionalidades y el soporte de los equipos de VR |
 | Asesoría Médica | garantizan la precisión médica de las simulaciones y validar cada prototipo mediante retroalimentación constante para asegurar la "correctitud" de la solución |
 | Área de Finanzas y Administración | gestión de recursos y costos, asegurando la viabilidad económica del proyecto, administrando el presupuesto y coordinando la adquisición de insumos tecnológicos necesarios |
-| Dirección de Proyecto | defininen los procesos, establecen prioridades, gestionan los conflictos y aseguran que todos los miembros comprendan sus responsabilidades
- |
-| Recursos Humanos| Se enfoca en el desarrollo de los miembros del equipo, fomentando una cultura de apoyo, respeto y motivación para que el grupo evolucione hacia un equipo de alto rendimiento
- |
+| Dirección de Proyecto | defininen los procesos, establecen prioridades, gestionan los conflictos y aseguran que todos los miembros comprendan sus responsabilidades |
+| Recursos Humanos| Se enfoca en el desarrollo de los miembros del equipo, fomentando una cultura de apoyo, respeto y motivación para que el grupo evolucione hacia un equipo de alto rendimiento |
 | Área de Ventas y Marketing | Responsable de posicionar el producto en el mercado y asegurar que el desarrollo se mantenga enfocado en generar beneficios de negocio y resultados para los interesados |
 | Área de Compras |  Gestiona la relación con los proveedores y la adquisición de los recursos tecnológicos y materiales necesarios en tiempo y forma |
  
