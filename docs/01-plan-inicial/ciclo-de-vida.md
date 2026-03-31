@@ -63,17 +63,17 @@ flowchart LR
 
 ## Enfoque seleccionado
 
-> **Adaptativo**
+> **ÁGIL**
 
 ## Justificación de la elección
 
-> En la etapa de mantenimiento se opta por un enfoque adaptativo debido al alto nivel de incertidumbre asociado a los cambios que pueden surgir durante el uso del sistema. A diferencia de la etapa de producción, aquí el producto ya está en funcionamiento y es utilizado por usuarios reales, lo que genera nuevas necesidades y ajustes continuos.
+> En la etapa de mantenimiento se opta por un enfoque ágil debido al alto nivel de incertidumbre asociado a los cambios que pueden surgir durante el uso del sistema. A diferencia de la etapa de producción, aquí el producto ya está en funcionamiento y es utilizado por usuarios reales, lo que genera nuevas necesidades y ajustes continuos.
 > 
-> El nivel de riesgo es bajo, lo que permite implementar cambios de manera más flexible sin comprometer significativamente la estabilidad del sistema. Esto favorece un enfoque iterativo e incremental, donde se realizan múltiples entregas basadas en mejoras y actualizaciones.
+> Además, el desarrollo se organiza en iteraciones cortas, donde en cada una se construyen incrementos funcionales del producto que pueden ser evaluados. Esto permite detectar errores de manera temprana, reducir riesgos y realizar ajustes continuos sin necesidad de esperar hasta el final del proyecto, optimizando así el uso de tiempo y recursos.
 > 
 > La retroalimentación en esta etapa proviene directamente de los usuarios, lo cual es clave para adaptar el sistema a sus necesidades reales. Este tipo de feedback es dinámico y muchas veces impredecible, lo que refuerza la necesidad de un enfoque adaptable.
 > 
-> En consecuencia, el desarrollo se orienta a responder rápidamente a los cambios, priorizando la mejora continua y la capacidad de adaptación por sobre la planificación rígida, características centrales del enfoque adaptativo.
+> Finalmente, aunque este enfoque requiere una mayor participación activa del equipo y de los interesados, permite entregar valor de forma incremental y continua, siendo especialmente adecuado en proyectos donde la adaptabilidad, la innovación y la mejora constante son fundamentales para el éxito.
 
 
 ## Árbol de decisión
@@ -96,7 +96,8 @@ flowchart TD
     style H fill:#5D4037,stroke:#FFB74D
 ```
 
-> **Decisión del grupo:**  La rama del arbol que aplica a la segunda etapa es la ADAPTATIVA, ya que los requisitos no son estables porque los usuarios que entrenarán con el simulador podrán proponer mejoras durante su uso. Además, el equipo sí tendrá experiencia en ágil ya que la adaptación al cambio es rápida y la colaboración se mantiene constante. 
+> **Decisión del grupo:**  La rama del arbol que aplica a la segunda etapa es la ADAPTATIVA, ya que los requisitos no son estables porque los usuarios que entrenarán con el simulador podrán proponer mejoras durante su uso. Además, el equipo sí tendrá experiencia en ágil ya que la adaptación al cambio es rápida y la colaboración se mantiene constante. Dentro de la rama adaptativa se determina que el enfoque es del tipo KANBAN, ya que el equipo trabaja con tiempos de ejecución variable segun las mejoras que debe realizar.
+
 
 
 
