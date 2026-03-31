@@ -19,7 +19,7 @@ Este proyecto propone el desarrollo de un entorno de realidad virtual que permit
 |-------|---------|
 | Nombre de la organización | Bisturí VR |
 | Sector / Industria | Centro de entrenamiento de cirugía robótica |
-| Tamaño aproximado | Pequeña (9 personas) |
+| Tamaño aproximado | Pequeña (10 personas) |
 | Área solicitante | Área de la Salud |
 
 ## Problema u oportunidad
