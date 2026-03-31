@@ -11,7 +11,7 @@
 
 ## Áreas involucradas
 | Rol | Interés en el proyecto |
-|---------------------|-------------------------------------------------------------------------------|
+
 
 
 
@@ -27,6 +27,9 @@
 | Especialista en Ventas y Marketing | Posicionar el producto y atraer clientes potenciales | 
 | Gestor de Compras | Garantizar la adquisición de recursos necesarios en tiempo y forma |
 |
+
+
+
 ## Estructura del equipo
 ```mermaid
 graph TD
