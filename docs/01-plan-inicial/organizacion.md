@@ -26,8 +26,7 @@
 | Director de Finanzas | Controlar costos y asegurar la viabilidad económica | 
 | Especialista en Ventas y Marketing | Posicionar el producto y atraer clientes potenciales | 
 | Gestor de Compras | Garantizar la adquisición de recursos necesarios en tiempo y forma |
-|
-
+|---------------------------------------------|-------|--------------------------------------|------|
 
 
 ## Estructura del equipo
