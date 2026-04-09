@@ -1,8 +1,8 @@
-# 🔄 Ciclo de Vida del Proyecto en la etapa 1:
+# 🔄 Ciclo de Vida del Proyecto:
 
 ## Enfoque seleccionado 
 
-> **ITERATIVO**
+> **HÍBRIDO**
 
 ## Justificación de la elección
 
@@ -56,50 +56,6 @@ flowchart LR
 | 4 | Validación técnica | Verificar que el sistema cumpla con los requisitos definidos | Sistema validado por el asesor médico |
 
 ---
-
-
-
-# 🔄 Ciclo de Vida del Proyecto en la etapa 2:
-
-## Enfoque seleccionado
-
-> **ÁGIL**
-
-## Justificación de la elección
-
-> En la etapa de mantenimiento se opta por un enfoque ágil debido al alto nivel de incertidumbre asociado a los cambios que pueden surgir durante el uso del sistema. A diferencia de la etapa de producción, aquí el producto ya está en funcionamiento y es utilizado por usuarios reales, lo que genera nuevas necesidades y ajustes continuos.
-> 
-> Además, el desarrollo se organiza en iteraciones cortas, donde en cada una se construyen incrementos funcionales del producto que pueden ser evaluados. Esto permite detectar errores de manera temprana, reducir riesgos y realizar ajustes continuos sin necesidad de esperar hasta el final del proyecto, optimizando así el uso de tiempo y recursos.
-> 
-> La retroalimentación en esta etapa proviene directamente de los usuarios, lo cual es clave para adaptar el sistema a sus necesidades reales. Este tipo de feedback es dinámico y muchas veces impredecible, lo que refuerza la necesidad de un enfoque adaptable.
-> 
-> Finalmente, aunque este enfoque requiere una mayor participación activa del equipo y de los interesados, permite entregar valor de forma incremental y continua, siendo especialmente adecuado en proyectos donde la adaptabilidad, la innovación y la mejora constante son fundamentales para el éxito.
-
-
-## Árbol de decisión
-
-```mermaid
-flowchart TD
-    A{{"¿Los requisitos\nson estables?"}}
-    B{{"¿El equipo tiene\nexperiencia en ágil?"}}
-    C{{"¿El entorno admite\nentregas incrementales?"}}
-
-    A -- Sí --> P["✅ Predictivo\n(Cascada)"]
-    A -- No --> B
-    B -- Sí --> D["✅ Adaptativo\n(Scrum / Kanban)"]
-    B -- No --> C
-    C -- Sí --> H["✅ Híbrido"]
-    C -- No --> P
-
-    style P fill:#1E3A5F,stroke:#64B5F6
-    style D fill:#1B5E20,stroke:#81C784
-    style H fill:#5D4037,stroke:#FFB74D
-```
-
-> **Decisión del grupo:**  La rama del arbol que aplica a la segunda etapa es la ADAPTATIVA, ya que los requisitos no son estables porque los usuarios que entrenarán con el simulador podrán proponer mejoras durante su uso. Además, el equipo sí tendrá experiencia en ágil ya que la adaptación al cambio es rápida y la colaboración se mantiene constante. Dentro de la rama adaptativa se determina que el enfoque es del tipo KANBAN, ya que el equipo trabaja con tiempos de ejecución variable segun las mejoras que debe realizar.
-
-
-
 
 ## Fases del proyecto
 
