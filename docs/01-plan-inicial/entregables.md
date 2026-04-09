@@ -47,9 +47,7 @@ mindmap
 | 11 | Actualización de Producto n° 4 | Realización de mejoras. | Área de Desarrollo de Software  | [COMPLETAR] |Fin de Semana 18|
 | 13 | Asesoramiento Médico n° 5 | Pruebas y Retroalimentación Médica. | Asesor Médico | [COMPLETAR] |Fin de Semana 19|
 | 14 | Actualización Final de Producto | Realización de mejoras. | Area de Desarrollo de Software  | [COMPLETAR] |Fin de Semana 21|
-| 15 | Plan de Marketing | Planificación de Publicidad y Difusión. | Especialista en Ventas/Marketing | [COMPLETAR] |Fin de Semana XX|
-| 16 | Ejecución de Plan de Marketing | Llevar a cabo el Plan de Marketing. | Especialista en Ventas/Marketing | [COMPLETAR] |Fin de Semana XX|
-| 17 | Lanzamiento del Producto al Público | Búsqueda de Posibles Usuarios. | Area de Marketing | [COMPLETAR] |Fin de Semana XX|
+| 15 | Asesoramiento Médico final | Verificación final de funcionamiento correcto | [COMPLETAR] |Fin de Semana 22|
 
 ## Exclusiones del alcance
 
