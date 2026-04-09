@@ -23,8 +23,6 @@ mindmap
         [Actualización de Producto n° 3]
         [Actualización de Producto n° 4]
         [Actualización de Producto Final]
-    3. Venta del producto
-      [Lanzamiento del Producto al Público]
     
 ```
 
