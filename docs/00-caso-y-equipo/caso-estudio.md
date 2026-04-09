@@ -28,7 +28,7 @@ La formación en microcirugía enfrenta limitaciones por el acceso restringido a
 
 ## Objetivo general del proyecto
 
-Desarrollar un sistema de realidad virtual para el entrenamiento en microcirugía asistida por robot, basado en tecnologías como el Da Vinci Surgical System.
+Desarrollar un sistema de realidad virtual para el entrenamiento en microcirugía asistida por robot, basado en la tecnología del Da Vinci Surgical System.
 
 ## Objetivos específicos del proyecto
 - Diseñar un entorno virtual inmersivo que simule un quirófano y procedimientos quirúrgicos.
