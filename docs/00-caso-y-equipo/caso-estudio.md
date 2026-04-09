@@ -43,7 +43,7 @@ Desarrollar un sistema de realidad virtual para el entrenamiento en microcirugí
 |------|-------------|
 | Tiempo | Estimado de 12 semanas |
 | Presupuesto |  |
-| Alcance | El sistema se limita a la simulación de procedimientos de microcirugía, sin contemplar la integración con sistemas reales para operación |
+| Alcance | El sistema se limita a la simulación de procedimientos de microcirugía en Da Vinci Surgical System, sin contemplar la integración con sistemas reales para operación (PREGUNTAR!!!)|
 | Recursos | El proyecto cuenta con un equipo reducido de personas, disponibilidad limitada de recursos técnicos|
 
 
@@ -52,11 +52,6 @@ Desarrollar un sistema de realidad virtual para el entrenamiento en microcirugí
 - Se contará con acceso a dispositivos de realidad virtual adecuados para el desarrollo y pruebas.
 - Los usuarios (estudiantes o profesionales) tendrán conocimientos básicos de tecnología para utilizar el sistema.
 
-## Resultados esperados
-- Prototipo funcional del sistema de realidad virtual.
-- Simulaciones básicas de procedimientos quirúrgicos.
-- Interfaz interactiva e intuitiva para el usuario.
-- Mejora en la comprensión y práctica de habilidades quirúrgicas en entornos simulados.
 
 ---
 
