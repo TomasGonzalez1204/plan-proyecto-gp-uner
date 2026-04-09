@@ -41,31 +41,36 @@
 ## Estructura del equipo
 ```mermaid
 graph TD
-    Z["🏛️ Patrocinador del Proyecto"]
-    A["🏛️ Director del Proyecto"]
+    graph TD
 
-    B["👤 Director Área de Desarrollo en Software"]
-    C["👤 Contador"]
-    D["👤 Director de Recursos Humanos"]
+A[Patrocinador del Proyecto]
+B[Director del Proyecto]
 
-    E["👤 Asesor Médico"]
-    F["👤 Técnico de Software y Hardware"]
-    G["👤 Desarrollador de Software"]
+C[Director Área de Desarrollo de Software]
+D[Gestor de Finanzas]
+E[Asesor Médico]
 
-    H["👤 Gestor de Compras"]
-    I["👤 Especialista en Marketing"]
+F[Técnico de Software]
+G[Desarrollador de Software]
 
-    Z --> A
-    A --> B
-    A --> C
-    A --> D
+H[Programador VR / Gráficos 3D]
+I[Programador de Robótica / Control]
+J[Programador de Simulación Física]
+K[Programador de IA]
 
-    B --> E
-    B --> F
-    B --> G
+A --> B
 
-    C --> H
-    C --> I
+B --> C
+B --> D
+B --> E
+
+C --> F
+C --> G
+
+G --> H
+G --> I
+G --> J
+G --> K
 ```
 ---
 
