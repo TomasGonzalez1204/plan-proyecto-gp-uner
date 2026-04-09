@@ -34,14 +34,18 @@ mindmap
 | 2 | Plan Presupuestario | Planificación de Presupuesto y Proveedores | Gestor de Finanzas| [COMPLETAR] | Fin de Semana 2 |
 | 3 | Prototipo de Interfaz | Primer Mockup Navegable. | Área de Desarrollo de Software | [COMPLETAR] |Fin de Semana 6|
 | 4 | Asesoramiento Médico n° 1 | Pruebas y Retroalimentación Médica. | Asesor Médico | [COMPLETAR] |Fin de Semana 7|
-| 5 | Actualización de Producto n° 1 | Realización de Mejoras. | Area de Desarrollo de Software  | [COMPLETAR] |Fin de Semana 6|
-| 6 | Asesoramiento Médico n° 2 | Pruebas y Retroalimentación Médica. | Asesor Médico | [COMPLETAR] |Fin de Semana 7|
-| 7 | Actualización de Producto n° 2 | Realización de Mejoras. | Area de Desarrollo de Software  | [COMPLETAR] |Fin de Semana 8|
-| 8 | Asesoramiento Médico n° 3 | Pruebas y Retroalimentación Médica. | Asesor Médico | [COMPLETAR] |Fin de Semana 9|
-| 9 | Actualización de Producto Final | Realización de mejoras. | Area de Desarrollo de Software  | [COMPLETAR] |Fin de Semana 10|
-| 10 | Plan de Marketing | Planificación de Publicidad y Difusión. | Especialista en Ventas/Marketing | [COMPLETAR] |Fin de Semana 10|
-| 11 | Ejecución de Plan de Marketing | Llevar a cabo el Plan de Marketing. | Especialista en Ventas/Marketing | [COMPLETAR] |Fin de Semana 11|
-| 12 | Lanzamiento del Producto al Público | Búsqueda de Posibles Usuarios. | Area de Marketing | [COMPLETAR] |Fin de Semana 11|
+| 5 | Actualización de Producto n° 1 | Realización de Mejoras. | Área de Desarrollo de Software  | [COMPLETAR] |Fin de Semana 9|
+| 6 | Asesoramiento Médico n° 2 | Pruebas y Retroalimentación Médica. | Asesor Médico | [COMPLETAR] |Fin de Semana 10|
+| 7 | Actualización de Producto n° 2 | Realización de Mejoras. | Área de Desarrollo de Software  | [COMPLETAR] |Fin de Semana 12|
+| 8 | Asesoramiento Médico n° 3 | Pruebas y Retroalimentación Médica. | Asesor Médico | [COMPLETAR] |Fin de Semana 13|
+| 9 | Actualización de Producto n° 3 | Realización de mejoras. | Área de Desarrollo de Software  | [COMPLETAR] |Fin de Semana 15|
+| 10 | Asesoramiento Médico n° 4 | Pruebas y Retroalimentación Médica. | Asesor Médico | [COMPLETAR] |Fin de Semana 16|
+| 11 | Actualización de Producto n° 4 | Realización de mejoras. | Área de Desarrollo de Software  | [COMPLETAR] |Fin de Semana 18|
+| 13 | Asesoramiento Médico n° 5 | Pruebas y Retroalimentación Médica. | Asesor Médico | [COMPLETAR] |Fin de Semana 19|
+| 14 | Actualización Final de Producto | Realización de mejoras. | Area de Desarrollo de Software  | [COMPLETAR] |Fin de Semana 21|
+| 15 | Plan de Marketing | Planificación de Publicidad y Difusión. | Especialista en Ventas/Marketing | [COMPLETAR] |Fin de Semana XX|
+| 16 | Ejecución de Plan de Marketing | Llevar a cabo el Plan de Marketing. | Especialista en Ventas/Marketing | [COMPLETAR] |Fin de Semana XX|
+| 17 | Lanzamiento del Producto al Público | Búsqueda de Posibles Usuarios. | Area de Marketing | [COMPLETAR] |Fin de Semana XX|
 
 ## Exclusiones del alcance
 
