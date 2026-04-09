@@ -15,9 +15,13 @@ mindmap
         [Asesoramiento Médico n° 1]
         [Asesoramiento Médico n° 2]
         [Asesoramiento Médico n° 3]
+        [Asesoramiento Médico n° 4]
+        [Asesoramiento Médico n° 5]
       [Actualización de Producto]
         [Actualización de Producto n° 1]
         [Actualización de Producto n° 2]
+        [Actualización de Producto n° 3]
+        [Actualización de Producto n° 4]
         [Actualización de Producto Final]
     3. Venta del producto
       [Plan de Marketing]
