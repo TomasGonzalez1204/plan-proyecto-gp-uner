@@ -30,10 +30,10 @@ mindmap
 
 | # | Entregable | Descripción | Responsable | Criterio de aceptación | Hito |
 |---|-----------|-------------|------------|------------------------|----|
-| 1 | Plan de Desarrollo | Plan y Cronograma de Tareas | Comisión Directiva | [COMPLETAR] | Fin de Semana 2 |
-| 2 | Plan Presupuestario | Planificación de Presupuesto y Proveedores | Area de Finanzas | [COMPLETAR] | Fin de Semana 2 |
-| 3 | Prototipo de Interfaz | Primer Mockup Navegable. | Area de Desarrollo de Software | [COMPLETAR] |Fin de Semana 4|
-| 4 | Asesoramiento Médico n° 1 | Pruebas y Retroalimentación Médica. | Asesor Médico | [COMPLETAR] |Fin de Semana 5|
+| 1 | Plan de Desarrollo | Plan y Cronograma de Tareas | Director de Proyecto | [COMPLETAR] | Fin de Semana 2 |
+| 2 | Plan Presupuestario | Planificación de Presupuesto y Proveedores | Gestor de Finanzas| [COMPLETAR] | Fin de Semana 2 |
+| 3 | Prototipo de Interfaz | Primer Mockup Navegable. | Área de Desarrollo de Software | [COMPLETAR] |Fin de Semana 6|
+| 4 | Asesoramiento Médico n° 1 | Pruebas y Retroalimentación Médica. | Asesor Médico | [COMPLETAR] |Fin de Semana 7|
 | 5 | Actualización de Producto n° 1 | Realización de Mejoras. | Area de Desarrollo de Software  | [COMPLETAR] |Fin de Semana 6|
 | 6 | Asesoramiento Médico n° 2 | Pruebas y Retroalimentación Médica. | Asesor Médico | [COMPLETAR] |Fin de Semana 7|
 | 7 | Actualización de Producto n° 2 | Realización de Mejoras. | Area de Desarrollo de Software  | [COMPLETAR] |Fin de Semana 8|
