@@ -12,7 +12,7 @@
 >
 >Por otro lado, existen elementos del proyecto que demandan un enfoque iterativo, en los cuales es necesario desarrollar prototipos o versiones parciales para validar funcionalidades, explorar soluciones y ajustar decisiones de diseño, a partir de las retroalimentaciones brindadas por los asesores médicos. Estas iteraciones permiten incorporar aprendizaje continuo y adaptarse a cambios en los requisitos o en el entorno del proyecto.
 >
->}De esta manera, el enfoque híbrido logra equilibrar la estabilidad de la planificación inicial con la flexibilidad necesaria para responder a la incertidumbre.
+>De esta manera, el enfoque híbrido logra equilibrar la estabilidad de la planificación inicial con la flexibilidad necesaria para responder a la incertidumbre.
 
 
 ## Árbol de decisión
