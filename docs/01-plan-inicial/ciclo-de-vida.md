@@ -6,13 +6,13 @@
 
 ## Justificación de la elección
 
->En la etapa de producción se adopta un enfoque híbrido debido a que el proyecto combina características de entornos con baja incertidumbre —donde es posible definir ciertos requisitos desde el inicio— con otros aspectos más complejos y cambiantes que requieren flexibilidad. En este contexto, algunas partes del proyecto pueden planificarse de manera estructurada, mientras que otras necesitan evolucionar progresivamente a medida que se obtiene nueva información.
+>Se adopta un enfoque híbrido debido a que el proyecto combina características de entornos con baja incertidumbre (donde es posible definir ciertos requisitos desde el inicio) con otros aspectos más complejos y cambiantes que requieren flexibilidad. En este contexto, algunas partes del proyecto pueden planificarse de manera estructurada, mientras que otras necesitan evolucionar progresivamente a medida que se obtiene nueva información.
 >
->Por un lado, se establecen componentes del proyecto con un enfoque predictivo, especialmente aquellos que presentan menor variabilidad y mayor claridad en sus objetivos, lo que permite definir cronogramas, recursos y entregables desde etapas tempranas. Esto brinda una base organizada que facilita el control y seguimiento del avance general.
+>Por un lado, se establecen componentes del proyecto con un enfoque predictivo, especialmente el plan de desarrollo, el plan de presupuesto y el prototipo de interfaz, lo que permite definir cronogramas, recursos y entregables desde etapas tempranas. Esto brinda una base organizada que facilita el control y seguimiento del avance general.
 >
->Por otro lado, existen elementos del proyecto que demandan un enfoque iterativo, en los cuales es necesario desarrollar prototipos o versiones parciales para validar funcionalidades, explorar soluciones y ajustar decisiones de diseño. Estas iteraciones permiten incorporar aprendizaje continuo y adaptarse a cambios en los requisitos o en el entorno del proyecto.
+>Por otro lado, existen elementos del proyecto que demandan un enfoque iterativo, en los cuales es necesario desarrollar prototipos o versiones parciales para validar funcionalidades, explorar soluciones y ajustar decisiones de diseño, a partir de las retroalimentaciones brindadas por los asesores médicos. Estas iteraciones permiten incorporar aprendizaje continuo y adaptarse a cambios en los requisitos o en el entorno del proyecto.
 >
->Además, la retroalimentación de los interesados cumple un rol clave, ya que permite ajustar las partes iterativas sin afectar la estructura general planificada. De esta manera, el enfoque híbrido logra equilibrar la estabilidad de la planificación inicial con la flexibilidad necesaria para responder a la incertidumbre.
+>}De esta manera, el enfoque híbrido logra equilibrar la estabilidad de la planificación inicial con la flexibilidad necesaria para responder a la incertidumbre.
 
 
 ## Árbol de decisión
