@@ -6,13 +6,13 @@
 
 ## Justificación de la elección
 
->En la etapa de producción se adopta un enfoque iterativo debido a que el proyecto presenta un nivel alto de incertidumbre y complejidad, lo que dificulta definir completamente los requisitos desde el inicio. En este contexto, los objetivos y características del producto se van definiendo progresivamente a medida que se obtiene nueva información a lo largo del desarrollo.
+>En la etapa de producción se adopta un enfoque híbrido debido a que el proyecto combina características de entornos con baja incertidumbre —donde es posible definir ciertos requisitos desde el inicio— con otros aspectos más complejos y cambiantes que requieren flexibilidad. En este contexto, algunas partes del proyecto pueden planificarse de manera estructurada, mientras que otras necesitan evolucionar progresivamente a medida que se obtiene nueva información.
 >
-> Además, el proyecto requiere la construcción de prototipos o versiones parciales que permitan validar ideas, funcionalidades y decisiones de diseño. Esto implica que el desarrollo no sigue una secuencia rígida, sino que se organiza en ciclos sucesivos donde cada iteración aporta aprendizaje y permite realizar ajustes, reduciendo así el riesgo de errores en etapas avanzadas.
+>Por un lado, se establecen componentes del proyecto con un enfoque predictivo, especialmente aquellos que presentan menor variabilidad y mayor claridad en sus objetivos, lo que permite definir cronogramas, recursos y entregables desde etapas tempranas. Esto brinda una base organizada que facilita el control y seguimiento del avance general.
 >
-> Por otro lado, la retroalimentación de los interesados cumple un rol fundamental, ya que cada versión del producto es evaluada y utilizada para mejorar la siguiente. Esto resulta especialmente importante cuando existen múltiples perspectivas o cuando las necesidades pueden evolucionar con el tiempo, haciendo necesario un enfoque flexible y adaptable.
+>Por otro lado, existen elementos del proyecto que demandan un enfoque iterativo, en los cuales es necesario desarrollar prototipos o versiones parciales para validar funcionalidades, explorar soluciones y ajustar decisiones de diseño. Estas iteraciones permiten incorporar aprendizaje continuo y adaptarse a cambios en los requisitos o en el entorno del proyecto.
 >
-> Finalmente, aunque este enfoque puede implicar mayores tiempos y costos, permite obtener un producto final más alineado con las expectativas y necesidades reales, siendo especialmente adecuado en contextos donde el aprendizaje continuo y la adaptación son clave para el éxito del proyecto.
+>Además, la retroalimentación de los interesados cumple un rol clave, ya que permite ajustar las partes iterativas sin afectar la estructura general planificada. De esta manera, el enfoque híbrido logra equilibrar la estabilidad de la planificación inicial con la flexibilidad necesaria para responder a la incertidumbre.
 
 
 ## Árbol de decisión
