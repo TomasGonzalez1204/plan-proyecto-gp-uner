@@ -41,7 +41,6 @@
 ## Estructura del equipo
 ```mermaid
 graph TD
-    graph TD
 
 A[Patrocinador del Proyecto]
 B[Director del Proyecto]
