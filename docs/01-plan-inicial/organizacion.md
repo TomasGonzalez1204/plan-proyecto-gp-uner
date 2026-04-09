@@ -27,11 +27,15 @@
 |----------------------------------|--------------------------|------------------------------------------------------------------------|
 |      COMPLETAR          | Patrocinador del Proyecto             | Tiene la autoridad para asignar recursos, aprobar presupuestos y tomar decisiones esenciales. También puede proporcionar recursos y garantizar que el proyecto entregue el valor empresarial esperado. |
 |      COMPLETAR          | Director del Proyecto             | Tiene total responsabilidad por el éxito del proyecto y el poder para tomar todas las decisiones, sujeto a la supervisión de los órganos ejecutivos. |
-| COMPLETAR      | Director Área de Desarrollo de software           | Busca lograr un desarrollo eficiente, funcional y de calidad del sistema     |
-| COMPLETAR                 | Asesor médico      | Garantiza la precisión médica y utilidad de las simulaciones          |
-| COMPLETAR    | Técnico de Software          | Mantiene el correcto funcionamiento de los equipos y sistemas          |
-| COMPLETAR        | Desarrollador de Software     | Implementar correctamente las funcionalidades del sistema              |
-| COMPLETAR             | Gestor de Finanzas       | Asegura la viabilidad económica                    |
+| COMPLETAR      | Director Área de Desarrollo de software           | Busca lograr un desarrollo eficiente, funcional y de calidad del sistema.     |
+| COMPLETAR                 | Asesor médico      | Garantiza la precisión médica y utilidad de las simulaciones.          |
+| COMPLETAR    | Técnico de Software          | Mantiene el correcto funcionamiento de los equipos y sistemas.          |
+| COMPLETAR        | Desarrollador de Software     | Implementar correctamente las funcionalidades del sistema.              |
+| COMPLETAR             | Gestor de Finanzas       | Asegura la viabilidad económica.                    |
+| COMPLETAR             | Programador de VR/Gráficos 3D       | Realiza el entorno 3D con Unity 3D Editor.                    |
+| COMPLETAR             | Programador de Robótica/Control       | Realiza el modelado de brazos robóticos, cinemática, control de precisión.                   |
+| COMPLETAR             | Programador de Simulación Física       | Realiza el comportamiento realista de los tejidos.                   |
+| COMPLETAR             | Programador de IA      | Realiza el feedback, detección de errores, entrenamiento inteligente.                   |
 
 
 ## Estructura del equipo
