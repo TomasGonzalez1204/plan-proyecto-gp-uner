@@ -57,25 +57,6 @@ flowchart LR
 
 ---
 
-## Fases del proyecto
 
-```mermaid
-flowchart LR
-    F1["📌 Fase 1\n[Monitoreo del sistema]"]
-    F2["📌 Fase 2\n[Recolección de feedback]"]
-    F3["📌 Fase 3\n[Actualización / Mejora]"]
-    F4["📌 Fase 4\n[Validación con usuarios]"]
-
-    F1 --> F2 --> F3 --> F4
-```
-
-| Fase | Nombre | Objetivo | Criterio de salida |
-|------|--------|----------|-------------------|
-| 1 | Monitoreo del sistema | Evaluar el desempeño del sistema en uso real | Datos de uso y problemas identificados |
-| 2 | Recolección de feedback | Obtener sugerencias y necesidades de los usuarios | Feedback documentado |
-| 3 | Actualización / Mejora | Implementar cambios y mejoras en el sistema | Versión actualizada del sistema |
-| 4 | Validación con usuarios | Verificar que las mejoras resuelvan los problemas detectados | Aprobación de los usuarios y correcto funcionamiento |
-
----
 
 *Cátedra Gestión de Proyectos · FIUNER · 2026*
