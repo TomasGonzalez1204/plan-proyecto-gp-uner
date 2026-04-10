@@ -42,34 +42,40 @@
 ```mermaid
 graph TD
 
-A[Patrocinador del Proyecto]
-B[Director del Proyecto]
+A[Patrocinador del Proyecto (EMPRESA DE TECNOLOGÍA MÉDICA)]
+B[Director del Proyecto (BISTURÍ VR)]
+C[Director de Marketing y Ventas]
+D[Director de Recrusos Humanos]
+E[Director de Área Contable]
 
-C[Director Área de Desarrollo de Software]
-D[Gestor de Finanzas]
-E[Asesor Médico]
+F[Director Área de Desarrollo de Software]
+G[Gestor de Finanzas]
+H[Asesor Médico]
 
-F[Técnico de Software]
-G[Desarrollador de Software]
+I[Técnico de Software]
+J[Desarrollador de Software]
 
-H[Programador VR / Gráficos 3D]
-I[Programador de Robótica / Control]
-J[Programador de Simulación Física]
-K[Programador de IA]
+K[Programador VR / Gráficos 3D]
+L[Programador de Robótica / Control]
+M[Programador de Simulación Física]
+N[Programador de IA]
 
 A --> B
+A --> C
+A --> D
+A --> E
 
-B --> C
-B --> D
-B --> E
+B --> F
+B --> G
+B --> H
 
-C --> F
-C --> G
+E --> I
+E --> J
 
-G --> H
-G --> I
-G --> J
-G --> K
+J --> K
+J --> L
+J --> M
+J --> N
 ```
 ---
 
