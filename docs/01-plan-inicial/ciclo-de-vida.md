@@ -35,7 +35,16 @@ flowchart TD
     style H fill:#5D4037,stroke:#FFB74D
 ```
 
-> **Decisión del grupo:** La rama del arbol que aplica a la primer etapa es la ADAPTATIVA, ya que los requisitos para construir el programa en realidad virtual no son estables porque durante el desarrollo se mostrará el sofyware a los usuarios los cuales podran realizar aportes para mejorar el proyecto. Además, el equipo se presume que tiene experiencia en ágil, ya que su mentalidad está basada en los valores y principios del manifiesto ágil. Dentro de la rama adaptativa se determina que el enfoque es del tipo SCRUM, ya que el equipo trabaja en iteraciones de duración fija facilitando una estructura de revisión constante con los asesores médicos.
+> **Decisión del grupo:**
+>A partir del árbol de decisiones, se determina la adopción de un enfoque híbrido debido a que los requisitos del proyecto no son completamente estables, lo que introduce un nivel significativo de incertidumbre.
+>
+>Si bien esta situación favorecería el uso de metodologías ágiles del tipo SCRUM (ya que el equipo trabaja en iteraciones de duración fija facilitando una estructura de revisión constante con los asesores médicos), el equipo no cuenta con suficiente experiencia en dichos enfoques, lo que dificulta la implementación de un modelo completamente adaptativo.
+>
+>No obstante, el entorno del proyecto permite la realización de entregas incrementales, lo que habilita la incorporación de instancias iterativas en determinadas etapas o componentes del desarrollo.
+>
+>En este contexto, se opta por un enfoque híbrido, combinando una planificación estructurada propia del modelo predictivo con la implementación de ciclos iterativos en aquellas partes del proyecto que lo requieren, permitiendo así gestionar la incertidumbre sin perder control sobre el desarrollo.
+
+
 
 ## Fases del proyecto
 
