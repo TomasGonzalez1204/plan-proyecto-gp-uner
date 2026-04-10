@@ -4,8 +4,11 @@
 
 | Nombre / Rol | Área | Interés en el proyecto | Influencia |
 |---------------------------------------------|-------|--------------------------------------|------|
+| Médicos | Educación | Uso para formarse | Alta |
 | Centros de entrenamiento en cirugía robótica| Salud | Formación y entrenamiento de médicos | Alta |
-
+| Director de marketing y ventas| Area de markeyting | Promocionar y ofrecer el producto final | Alta |
+| Abogado| Legal | Cumplimiento de normativa y patentamiento | media |
+| equipo de programadores | desarrollo de software | diseño y desarrollo del entorno | Alta |
 
 
 
