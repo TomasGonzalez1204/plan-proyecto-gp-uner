@@ -42,8 +42,8 @@
 ```mermaid
 graph TD
 
-A[Patrocinador del Proyecto (EMPRESA DE TECNOLOGÍA MÉDICA)]
-B[Director del Proyecto (BISTURÍ VR)]
+A[Patrocinador del Proyecto - EMPRESA DE TECNOLOGÍA MÉDICA]
+B[Director del Proyecto - BISTURÍ VR]
 C[Director de Marketing y Ventas]
 D[Director de Recrusos Humanos]
 E[Director de Área Contable]
