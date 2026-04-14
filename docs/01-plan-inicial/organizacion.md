@@ -46,9 +46,10 @@
 graph TD
 
 A[Patrocinador del Proyecto - EMPRESA DE TECNOLOGÍA MÉDICA]
-B[Director del Proyecto - BISTURÍ VR]
-C[Director de Marketing y Ventas]
-D[Director de Recrusos Humanos]
+
+B[Director de Marketing y Ventas]
+C[Director de Recrusos Humanos]
+D[Director del Proyecto - BISTURÍ VR]
 E[Director de Área Contable]
 
 F[Director Área de Desarrollo de Software]
@@ -68,9 +69,9 @@ A --> C
 A --> D
 A --> E
 
-B --> F
-B --> G
-B --> H
+D --> F
+D --> G
+D --> H
 
 F --> I
 F --> J
