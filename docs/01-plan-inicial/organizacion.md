@@ -48,6 +48,7 @@ graph TD
 A[Patrocinador del Proyecto - EMPRESA DE TECNOLOGÍA MÉDICA]
 
 B[Director de Marketing y Ventas]
+O[Director de Marketing y Ventas]
 C[Director de Recrusos Humanos]
 D[Director del Proyecto - BISTURÍ VR]
 E[Director de Área Contable]
@@ -65,6 +66,7 @@ M[Programador de Simulación Física]
 N[Programador de IA]
 
 A --> B
+A --> O
 A --> C
 A --> D
 A --> E
