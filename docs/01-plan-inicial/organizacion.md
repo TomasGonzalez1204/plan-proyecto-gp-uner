@@ -48,7 +48,7 @@ graph TD
 A[Patrocinador del Proyecto - EMPRESA DE TECNOLOGÍA MÉDICA]
 
 B[Director de Marketing y Ventas]
-O[Director de Marketing y Ventas]
+O[Director del área Legal]
 C[Director de Recrusos Humanos]
 D[Director del Proyecto - BISTURÍ VR]
 E[Director de Área Contable]
