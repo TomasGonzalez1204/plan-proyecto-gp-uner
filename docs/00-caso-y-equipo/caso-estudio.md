@@ -35,7 +35,6 @@ Desarrollar un sistema de realidad virtual para el entrenamiento en microcirugí
 - Implementar módulos de entrenamiento para distintas prácticas en microcirugía.
 - Integrar controles que emulen el funcionamiento de sistemas robóticos quirúrgicos.
 - Incorporar retroalimentación al usuario sobre su desempeño (precisión, tiempo, errores).
-- Permitir la repetición de prácticas en un entorno seguro y controlado.
 
 ## Restricciones conocidas
 
