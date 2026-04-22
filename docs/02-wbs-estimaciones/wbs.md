@@ -5,7 +5,7 @@
 ```mermaid
 mindmap
   root(("📁 [Nombre\ndel Proyecto]"))
-    1. [Entregable 1]
+    1. [Plan de Desarrollo]
       1.1 [Tarea 1.1]
       1.2 [Tarea 1.2]
         1.2.1 [Sub-tarea]
