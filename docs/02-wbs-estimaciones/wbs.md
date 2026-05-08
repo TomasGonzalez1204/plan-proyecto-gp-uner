@@ -81,7 +81,6 @@ mindmap
 
 ---
 
-```
 
 ## Diccionario de la WBS
 
