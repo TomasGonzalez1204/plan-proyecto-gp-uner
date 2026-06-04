@@ -7,10 +7,10 @@ quadrantChart
     title Matriz de Exposición al Riesgo
     x-axis Baja Probabilidad --> Alta Probabilidad
     y-axis Bajo Impacto --> Alto Impacto
-    quadrant-1 "🔴 Atención Inmediata"
-    quadrant-2 "🟠 Monitorear"
-    quadrant-3 "🟢 Aceptar"
-    quadrant-4 "🟡 Plan de Contingencia"
+    quadrant-1 "Atención Inmediata"
+    quadrant-2 "Monitorear"
+    quadrant-3 "Aceptar"
+    quadrant-4 "Plan de Contingencia"
     R1 — [Nombre corto]: [0.7, 0.8]
     R2 — [Nombre corto]: [0.5, 0.6]
     R3 — [Nombre corto]: [0.3, 0.7]
@@ -18,6 +18,8 @@ quadrantChart
     R5 — [Nombre corto]: [0.2, 0.4]
     R6 — [Nombre corto]: [0.4, 0.2]
 ```
+
+
 
 > **Cómo leer el gráfico:** cada punto representa un riesgo. El eje X es la probabilidad normalizada (valor/10) y el eje Y es el impacto normalizado (valor/10).
 
